@@ -1,7 +1,7 @@
 - 👋 Selam, Ben @darkao
 - 👀 Bir şeyler geliştirmeyi ve araştirmayı seviyorum.
 - 🌱 Şuanda Javascript(Node.js) öğrenmekteyim.
-- 📫 [mail adresim](mailto:thedarkjon@pm.me)
+- 📫 [thedarkjon@pm.me](mailto:thedarkjon@pm.me)
 
 <!---
 darkao/darkao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
